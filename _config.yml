@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: https://blog.frederic2ec.tk/
-baseurl: 
+url: https://blog.frederic2ec.tk
+baseurl: /project
 
 # variables
 name: Your Site Name
