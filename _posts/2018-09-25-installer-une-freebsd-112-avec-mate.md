@@ -9,7 +9,7 @@ comments: true
 
 Pour ce premier article de blog ainsi que la premiere video, je me suis posé la question suivant: <<Est-t'il possible d'installer une FreeBSD bureautique avec Mate en quelque minutes?>>. La réponse est actuallement simple, oui c'est possible. Voici comment j'ai procédé.
 
-## InstallATION
+## Installation
 1. J'ai commencé par récuper l'iso sur le [la page de téléchargement de FreeBSD](https://www.freebsd.org/where.html)
 2. J'ai créer une machine virtuelle et j'ai démarré sur l'ISO.
 3. À la première question, j'ai sélectionner <<Install>>
